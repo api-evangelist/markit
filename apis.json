@@ -1,0 +1,89 @@
+{
+    "name": "Markit",
+    "description": "IHS Markit \u2013 The Source for Critical Information and Insight",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1045-markit.jpg",
+    "tags": [
+        "actionscript",
+        "analysis",
+        "api provider",
+        "financial",
+        "financial data",
+        "have api",
+        "tracking"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/markit\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Markit",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1045-markit.jpg",
+            "humanURL": "http:\/\/www.markit.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/markit-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/markit-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/markit"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ihs-markit"
+        },
+        {
+            "type": "Email",
+            "url": "Accommodation@ihs.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpa@ihsmarkit.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@ihsmarkit.com"
+        },
+        {
+            "type": "Email",
+            "url": "informationcompliance@ihsmarkit.com"
+        },
+        {
+            "type": "Email",
+            "url": "mk_alliancepartners@markit.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@ihs.com"
+        },
+        {
+            "type": "Email",
+            "url": "tim.mclaughlin@ihsmarkit.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Markit"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/IHSMarkit"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.markit.com\/"
+        }
+    ]
+}
